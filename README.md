@@ -24,7 +24,7 @@ I'm a passionate developer specializing in building responsive web applications 
 
 ### 📫 Let's Connect
 - Portfolio: [View Projects](https://sanele2017.github.io/Onice_Tech/)
-- LinkedIn: [linkedin.com/in/sanele-nkosi-b52706243]
+- LinkedIn: linkedin.com/in/sanele-nkosi-b52706243
 - Email: imanathi17@gmail.com
 
 ---
