@@ -1,6 +1,6 @@
 # Hi, I'm Sanele 👋
 
-## Frontend Developer | Systems Engineer
+## Full-stack Developer | Systems Engineer | 
 
 I'm a passionate developer specializing in building responsive web applications and managing Linux systems. Currently working as a Service Desk Agent at Axiz while developing modern web solutions.
 
@@ -28,4 +28,4 @@ I'm a passionate developer specializing in building responsive web applications 
 - Email: imanathi17@gmail.com
 
 ---
-💼 Open to freelance opportunities and collaborations!
+💼 Open to opportunities and collaborations
